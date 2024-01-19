@@ -5,7 +5,7 @@ Research on macOS Activity Monitor Data Analysis
 
 Introduction
 
-Welcome to the CS 210 project, a comprehensive exploration of macOS Activity Monitor data. The primary objective is to gain insights into the utilization of system resources by various applications, with a specific focus on understanding the correlation between energy impact and CPU usage.
+Welcome to my CS 210 project, a comprehensive exploration of my macOS Activity Monitor data. The primary objective is to gain insights into the utilization of system resources by various applications, with a specific focus on understanding the correlation between energy impact and CPU usage.
 
 Project Overview
 
